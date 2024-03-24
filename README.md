@@ -19,6 +19,13 @@ I created it to improve my coding skills by building realistic projects.
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
+The objective
+
+Users should be able to:
+
+- View the optimal layout depending on their device's screen size (Responsive Design)
+- See hover states for interactive elements
+
 
 ### The objective
 
@@ -27,30 +34,11 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size (Responsive Design)
 - See hover states for interactive elements
 
-### Screenshot
-
-#### Landing Screen 
-![Landing Screen](design/screenshots/landing.jpg?raw=true")
-
-#### Portfolio Screen 
-![Landing Screen](design/screenshots/portfolio.png?raw=true")
-
-#### About Screen 
-![Landing Screen](design/screenshots/stat.png?raw=true")
-
-#### Skills Screen 
-![Landing Screen](design/screenshots/skills.jpg?raw=true")
-
-#### Pricing Screen 
-![Landing Screen](design/screenshots/pricing.png?raw=true")
-
-#### Contact Screen 
-![Landing Screen](design/screenshots/contact.png?raw=true")
 
 
 ### Links
-- Source Code URL: [here](https://github.com/IbrahimAlsabr/Kasper-Template)
-- Live Site URL: [here](https://ibrahimalsabr.github.io/Kasper-Template/)
+- Source Code URL: [here](https://github.com/eslambashry/template-2)
+- Live Site URL: [here](https://eslambashry.github.io/template-2/)
 
 ## My process
 
@@ -83,12 +71,7 @@ The designs were created to the following widths:
 
 
 ## Author
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IbrahimAlsabr)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-alsabr-188939231/)
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/home?lang=fr)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eslambashry)
 
 
-## Acknowledgments
-* [Elzero Academy](https://elzero.org/)
+
